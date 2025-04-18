@@ -1,0 +1,2 @@
+node check-env.cjs
+npm run lint-staged
